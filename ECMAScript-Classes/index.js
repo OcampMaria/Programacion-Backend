@@ -1,4 +1,4 @@
-class ProductMAnager {
+class ProductManager {
 
     //initializes an empty array 'this.products'
     constructor(){
